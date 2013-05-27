@@ -24,7 +24,7 @@ bool PlayerLayer::init()
     tag2 = 0;
     tag3 = 0;
     const char *plist = "moleall.plist";
-        
+    //dill    
     //CCTexture2D::PVRImagesHavePremultipliedAlpha(true); 
     ///////////////////////////////临时注销
     //CCMenuItemFont* back=CCMenuItemFont::itemFromString("back",this,menu_selector(PlayerLayer::back));  
